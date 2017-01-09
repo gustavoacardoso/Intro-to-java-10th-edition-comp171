@@ -1,0 +1,8 @@
+Hierarchical of data
+1.	A data is made up of characters 256
+2.	FIELD – variable – combination of characters that references 1 specific piece of information
+3.	RECORD – combination of fields that represents a lot of information about identity – key field
+4.	FILE – Accumulation of records used for the same purpose
+5.	DATABASE – smart files
+
+Remember: subscript is equal to location

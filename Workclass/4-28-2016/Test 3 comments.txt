@@ -1,0 +1,19 @@
+Test 3 - final
+Programming part
+
+1. define array... particular value in this array .. tell me what value is there..
+2. Sorting.. do something
+
+Substrings - break the strings.. (he give a samlple to took at)
+identify part of the string
+
+
+can use book, canvas, 
+
+loops
+methods
+
+mirror the last of couple assignments - we can look at
+
+10 questions (tell what th program will do): 
+have to do 8 instead of 10
